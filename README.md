@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bot-geras" alt="bot-geras" /></a> </p>
 
-- 🔭 I’m currently working on **tiktok clone and ill be using sanity with react. Perfect project to learn how to use a CMS**
+- 🔭 I’m currently working on **social media app and will be using sanity with react. Perfect project to learn how to use a CMS**
 
 - 🌱 I’m currently learning **Typescript**
 
